@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#1b1b1b</color>
+    <color name="primary">#282828</color>
+    <color name="primary_light">#373737</color>
+    <color name="accent">#3c3c3c</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteText">#f5f5f5</color>
+    <color name="tab_strip">#ffffff</color>
+</resources>
