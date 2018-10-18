@@ -1,4 +1,8 @@
-# Audio Voice Recorder
+<p align="center">
+  <img src="logo.png" width="430"/>
+</p>
+
+#
 A simple styled audio voice recording app for Android
 
 The main changes compared to the original version are a support for the runtime permissions (to store audio files to the local device), and some re-styling of the app design.
